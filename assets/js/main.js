@@ -55,7 +55,7 @@ copy.addEventListener("click", () => {
   }
 
 
-  var messageArr = ["Frontend Developer", "FullStack Developer", "Backend Developer"];
+  var messageArr = ["FullStack Developer", "FullStack Developer", "Backend Developer"];
   var textPosition = 0;
   var speed = 200;
 
